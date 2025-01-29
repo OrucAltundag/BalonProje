@@ -1,0 +1,11 @@
+C:\Users\dadil\source\repos\BalonProje\BalonProje\bin\Debug\BalonProje.exe.config
+C:\Users\dadil\source\repos\BalonProje\BalonProje\bin\Debug\BalonProje.exe
+C:\Users\dadil\source\repos\BalonProje\BalonProje\bin\Debug\BalonProje.pdb
+C:\Users\dadil\source\repos\BalonProje\BalonProje\obj\Debug\BalonProje.csproj.AssemblyReference.cache
+C:\Users\dadil\source\repos\BalonProje\BalonProje\obj\Debug\BalonProje.Form1.resources
+C:\Users\dadil\source\repos\BalonProje\BalonProje\obj\Debug\BalonProje.Properties.Resources.resources
+C:\Users\dadil\source\repos\BalonProje\BalonProje\obj\Debug\BalonProje.csproj.GenerateResource.cache
+C:\Users\dadil\source\repos\BalonProje\BalonProje\obj\Debug\BalonProje.csproj.CoreCompileInputs.cache
+C:\Users\dadil\source\repos\BalonProje\BalonProje\obj\Debug\BalonProje.exe
+C:\Users\dadil\source\repos\BalonProje\BalonProje\obj\Debug\BalonProje.pdb
+C:\Users\dadil\source\repos\BalonProje\BalonProje\obj\Debug\BalonProje.Giris.resources
